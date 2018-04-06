@@ -24,4 +24,8 @@
 
 /* Posititoning Classes */
 
+.two-thirds {
+  width: 66.66%;
+  float: left;
+}
 
