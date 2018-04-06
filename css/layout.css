@@ -24,12 +24,17 @@
 
 /* Posititoning Classes */
 
-.two-thirds {
+.col-two-thirds {
   width: 60%;
   float: left;
 }
 
-.right-third {
+.col-right-third {
   width: 30%;
   float: right;
+}
+
+[class*="col-"] {
+  margin-left: 2%;
+  margin-bottom: 2%;
 }
