@@ -28,3 +28,8 @@
   width: 60%;
   float: left;
 }
+
+.right-third {
+  width: 30%;
+  float: right;
+}
